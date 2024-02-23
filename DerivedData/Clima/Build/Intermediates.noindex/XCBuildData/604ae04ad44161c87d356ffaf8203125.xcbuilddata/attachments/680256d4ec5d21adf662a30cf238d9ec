@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Clima-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Clima-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Clima-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Clima-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/AppDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/Controller/WeatherViewController.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherViewController~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/Model/Keys.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/Keys~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/Model/WeatherData.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherData~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/Model/WeatherManager.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherManager~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/Model/WeatherModel.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/WeatherModel~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/SceneDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex/Clima.build/Debug-iphoneos/Clima.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

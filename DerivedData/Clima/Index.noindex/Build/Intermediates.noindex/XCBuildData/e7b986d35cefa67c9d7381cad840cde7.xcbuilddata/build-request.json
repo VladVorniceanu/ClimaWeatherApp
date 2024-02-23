@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "fc102aecfb61404b0d61b23a3252b21bc70a9e433c5f2bf892725148834c7695"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Build/Products",
+      "pchPath" : "/Users/vladvorniceanu/Development/ClimaWeatherApp/DerivedData/Clima/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

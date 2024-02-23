@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameWeatherColor</string>
+			<key>relativePath</key>
+			<string>./WeatherColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>weather</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/ClimaWeatherApp/Clima/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackground</string>
+			<key>relativePath</key>
+			<string>./background.imageset</string>
+			<key>swiftSymbol</key>
+			<string>background</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
