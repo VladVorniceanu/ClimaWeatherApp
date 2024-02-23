@@ -128,6 +128,67 @@
 			<key>uniqueIdentifier</key>
 			<string>471C605D-A5EF-4A0F-8C8E-3AB8EA856598</string>
 		</dict>
+		<key>4BA8B9AF-4AB9-4550-A3FB-AD540893843E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8DC96F24-6974-4D47-AA24-150EC953AD84</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Clima-2024.02.23_16-21-54-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Clima project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Clima</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Clima</string>
+			<key>timeStartedRecording</key>
+			<real>730390914.02654803</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Clima</string>
+			<key>uniqueIdentifier</key>
+			<string>4BA8B9AF-4AB9-4550-A3FB-AD540893843E</string>
+		</dict>
 		<key>5BBB2754-48ED-4C37-9820-E4366EE91875</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
